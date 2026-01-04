@@ -1,7 +1,7 @@
 '''
 Approach-1
 Time Complexity -- O(sqrt(n))
-Space Comlpexity -- O(n)
+Space Comlpexity -- O(1)
 '''
 
 #Approach-1
